@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="initial_text"> </string>
+    <string name="percentage">Percentage</string>
+    <string name="multiply">Multiply</string>
+    <string name="remove">Remove</string>
+    <string name="dot">Dot</string>
+    <string name="equals">Equals</string>
+    <string name="clear">Clear</string>
+    <string name="change_sign">Change sign</string>
+    <string name="root">Square root</string>
+    <string name="division">Divide</string>
+    <string name="plus">Plus</string>
+    <string name="minus">Minus</string>
+    <string name="zero">Zero</string>
+    <string name="one">One</string>
+    <string name="two">Two</string>
+    <string name="three">Three</string>
+    <string name="four">Four</string>
+    <string name="five">Five</string>
+    <string name="six">Six</string>
+    <string name="seven">Seven</string>
+    <string name="eight">Eight</string>
+    <string name="nine">Nine</string>
+    <string name="error">Error</string>
+    <string name="error_division_by_zero">Error: Division by Zero</string>
+    <string name="invalid_input">Invalid Input</string>
+</resources>
